@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Leilao online</string>
+    <string name="enviar_lance">Enviar Lance</string>
+    <string name="valor_do_seu_lance">Valor do seu Lance</string>
+    <string name="e_mail_de_contato">E-mail de Contato</string>
+    <string name="nome_do_cliente">Nome do Cliente</string>
+    <string name="lista_de_lances_ofertados">Lista de Lances Ofertados</string>
+    <string name="detalhes_do_leil_o">Detalhes do Leilão</string>
+</resources>

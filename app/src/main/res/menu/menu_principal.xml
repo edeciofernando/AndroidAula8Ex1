@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuLista"
+        android:title="@string/lista_de_lances_ofertados"/>
+    <item android:id="@+id/menuDetalhes"
+        android:title="@string/detalhes_do_leil_o"/>
+</menu>
